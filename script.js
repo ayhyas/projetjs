@@ -1,5 +1,3 @@
-console.log("hello");
-
-console.log("how are u");
-
-console.log("hey");
+for (let i = 0; i < 10; i++) {
+  console.log("hello");
+}
